@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddWaterActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/soopafre"
+        android:gravity="center"
+        android:text="- Add Water -"
+        android:textColor="#74C1E9"
+        android:textSize="30sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/bottom1"
+        android:padding="10dp"
+        >
+
+        <SeekBar
+            android:id="@+id/seekBar2"
+            android:layout_width="match_parent"
+            android:progressDrawable="@drawable/custom_seekbar"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="40dp"
+            android:max="60"
+            android:thumb="@drawable/seek1"
+            android:progress="0"
+            />
+
+        <TextView
+            android:id="@+id/unitTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ml"
+            android:textStyle="bold"
+            android:textColor="@color/colorText"
+            android:textSize="20sp"
+            android:gravity="end"
+            android:paddingEnd="10dp"
+            android:layout_marginTop="205dp"
+            />
+
+        <TextView
+            android:id="@+id/waterTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textStyle="bold"
+            android:textColor="@color/colorText"
+            android:textSize="60sp"
+            android:gravity="center"
+            android:layout_marginTop="280dp"
+            />
+
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_icon"
+            android:layout_marginTop="420dp"
+            android:padding="8dp"
+            android:text="Done !"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:layout_marginStart="130dp"
+            android:onClick="doneClick"
+            />
+    </RelativeLayout>
+</RelativeLayout>

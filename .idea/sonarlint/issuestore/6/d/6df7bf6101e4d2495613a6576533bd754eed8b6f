@@ -1,0 +1,7 @@
+
+zsquid:S00116"VRename this field "water_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•‡úâüÿÿÿÿ8Ìê†òš-
+jsquid:S11925"GDefine a constant instead of duplicating this literal "METRIC" 3 times.(ªÜ°ìúÿÿÿÿ8ñÒ…òš-
+U"squid:SwitchLastCaseIsDefaultCheck ""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
+usquid:UselessImportCheck
+"ERemove this unused import 'android.support.v7.app.AppCompatActivity'.(«Û®ûüÿÿÿÿ8”¼³Îš-
+nsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(êÒÃçÿÿÿÿÿ8å©¥¸ª-

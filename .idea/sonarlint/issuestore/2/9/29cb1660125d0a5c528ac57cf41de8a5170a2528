@@ -1,0 +1,16 @@
+
+isquid:S3776o"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(§‡È
+psquid:S00117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¾µ¡8óÜÆÈš-
+nsquid:S00117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¹‚øÿÿÿÿ
+Zsquid:S1126"BReplace this if-then-else statement by a single method invocation.(¾‹™¶
+nsquid:S00117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ƒ²øÿÿÿÿ
+osquid:S00117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ç®]8óÜÆÈš-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‡Äôùÿÿÿÿ
+`squid:S1192"IDefine a constant instead of duplicating this literal "TRAINING" 3 times.(­²ì¯
+^squid:S1192\"GDefine a constant instead of duplicating this literal "GENDER" 3 times.(¾í’ó
+isquid:S00117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥âˆ”
+csquid:S11923"GDefine a constant instead of duplicating this literal "METRIC" 6 times.(úÆ¹©úÿÿÿÿ
+nsquid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²†Íˆıÿÿÿÿ
+jsquid:S11927"NDefine a constant instead of duplicating this literal "UNITOFMEASURE" 3 times.(€©àüÿÿÿÿ
+^squid:S1192c"GDefine a constant instead of duplicating this literal "FEMALE" 3 times.(ğœ÷Â
+^squid:S1192H"GDefine a constant instead of duplicating this literal "WEIGHT" 4 times.(şÖøŞ
